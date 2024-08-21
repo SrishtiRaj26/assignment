@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Currency_Converter_Simulation/1.0.0": {
+        "runtime": {
+          "Currency_Converter_Simulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Currency_Converter_Simulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

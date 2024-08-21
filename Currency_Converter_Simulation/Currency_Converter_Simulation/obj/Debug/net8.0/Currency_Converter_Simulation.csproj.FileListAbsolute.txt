@@ -1,0 +1,15 @@
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\bin\Debug\net8.0\Currency_Converter_Simulation.exe
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\bin\Debug\net8.0\Currency_Converter_Simulation.deps.json
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\bin\Debug\net8.0\Currency_Converter_Simulation.runtimeconfig.json
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\bin\Debug\net8.0\Currency_Converter_Simulation.dll
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\bin\Debug\net8.0\Currency_Converter_Simulation.pdb
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\obj\Debug\net8.0\Currency_Converter_Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\obj\Debug\net8.0\Currency_Converter_Simulation.AssemblyInfoInputs.cache
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\obj\Debug\net8.0\Currency_Converter_Simulation.AssemblyInfo.cs
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\obj\Debug\net8.0\Currency_Converter_Simulation.csproj.CoreCompileInputs.cache
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\obj\Debug\net8.0\Currency_Converter_Simulation.sourcelink.json
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\obj\Debug\net8.0\Currency_Converter_Simulation.dll
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\obj\Debug\net8.0\refint\Currency_Converter_Simulation.dll
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\obj\Debug\net8.0\Currency_Converter_Simulation.pdb
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\obj\Debug\net8.0\Currency_Converter_Simulation.genruntimeconfig.cache
+C:\Users\rajsrishti\source\repos\NewRepo\Currency_Converter_Simulation\Currency_Converter_Simulation\obj\Debug\net8.0\ref\Currency_Converter_Simulation.dll

@@ -1,0 +1,15 @@
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\bin\Debug\net8.0\Assignment_C#.exe
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\bin\Debug\net8.0\Assignment_C#.deps.json
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\bin\Debug\net8.0\Assignment_C#.runtimeconfig.json
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\bin\Debug\net8.0\Assignment_C#.dll
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\bin\Debug\net8.0\Assignment_C#.pdb
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\obj\Debug\net8.0\Assignment_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\obj\Debug\net8.0\Assignment_C#.AssemblyInfoInputs.cache
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\obj\Debug\net8.0\Assignment_C#.AssemblyInfo.cs
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\obj\Debug\net8.0\Assignment_C#.csproj.CoreCompileInputs.cache
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\obj\Debug\net8.0\Assignment_C#.sourcelink.json
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\obj\Debug\net8.0\Assignment_C#.dll
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\obj\Debug\net8.0\refint\Assignment_C#.dll
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\obj\Debug\net8.0\Assignment_C#.pdb
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\obj\Debug\net8.0\Assignment_C#.genruntimeconfig.cache
+C:\Users\rajsrishti\source\repos\NewRepo\Assignment_C#\Assignment_C#\obj\Debug\net8.0\ref\Assignment_C#.dll
